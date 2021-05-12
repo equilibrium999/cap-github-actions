@@ -2,6 +2,7 @@
 ## appName = cap-github-actions
 ## language=nodejs; multiTenant=false
 ## approuter=
+## dummy comment=
 _schema-version: '3.1'
 ID: cap-github-actions
 version: 1.0.0
